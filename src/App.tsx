@@ -36,8 +36,8 @@ export default function App() {
           </div>
         </div>
         <p className="banner-note">
-          Под капотом упрощено для показа заказчику. Студенты соберут полную
-          версию: Workers, Shared Worker + WebSocket, perf, тесты.
+          Студенты соберут полную версию: Workers, Shared Worker + WebSocket,
+          perf, тесты.
         </p>
       </header>
 
