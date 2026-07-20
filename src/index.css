@@ -1,0 +1,4 @@
+/* Reset leftovers from Vite template — layout lives in App.css */
+body {
+  margin: 0;
+}
