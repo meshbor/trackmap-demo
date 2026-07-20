@@ -2,7 +2,7 @@
 
 Публичное демо итогового продукта курса **React Advanced** (домен: realtime-карта / трекинг).
 
-Под капотом **упрощено** специально для показа заказчику: симуляция потока вместо настоящего WebSocket/Shared Worker. В курсе студенты соберут полную версию.
+Симуляция потока вместо настоящего WebSocket/Shared Worker. В курсе студенты соберут полную версию.
 
 ## Локально
 
@@ -17,7 +17,7 @@ npm run dev
 npm run deploy
 ```
 
-URL после деплоя: `https://meshbor.github.io/trackmap-demo/`
+URL: `https://meshbor.github.io/trackmap-demo/`
 
 ## Связь с программой
 

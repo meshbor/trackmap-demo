@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 const CHANNEL = 'trackmap-demo-tabs'
 
 /**
- * Лёгкая иллюстрация multi-tab sync для заказчика.
+ * Лёгкая иллюстрация multi-tab sync.
  * В полном курсе здесь будет Shared Worker + один WebSocket.
  */
 export function useTabPresence() {
